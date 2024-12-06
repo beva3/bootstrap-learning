@@ -7,3 +7,6 @@ type of viewport:
     sr >= 768px [tablette]
     md >= 992px medium  [desktop]
     lg >= 1200px large  [large desktop]
+# gride system :
+    1. col-type_VW-div (gride)
+    2. 
